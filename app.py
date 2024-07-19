@@ -1,8 +1,8 @@
 import streamlit as st
 import numpy as np
-from Scikits Learn.linear_model import LogisticRegression
-from Scikits Learn.preprocessing import StandardScaler
-from Scikits Learn.model_selection import train_test_split
+from ScikitsLearn.linear_model import LogisticRegression
+from ScikitsLearn.preprocessing import StandardScaler
+from ScikitsLearn.model_selection import train_test_split
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
