@@ -9,7 +9,7 @@ import seaborn as sns
 import plotly.express as px
 
 # Load the data
-data = pd.read_csv(r"C:\Users\ADMIN\python\Diabetes.csv")
+data = pd.read_csv(r"Diabetes.csv")
 
 # Title and description
 st.title('Diabetes Prediction App')
