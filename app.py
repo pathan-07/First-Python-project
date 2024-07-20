@@ -45,7 +45,7 @@ model.fit(X_train, y_train)
 st.sidebar.header('User Input Parameters')
 
 # Adding an image to the sidebar
-st.sidebar.image('https://upload.wikimedia.org/wikipedia/commons/3/3d/Diabetes_nutrition.jpg', caption='Healthy Living')
+st.sidebar.image('banner6.jpg', caption='Healthy Living')
 
 def user_input_features():
     Pregnancies = st.sidebar.number_input('Pregnancies', min_value=0, max_value=20, value=1)
