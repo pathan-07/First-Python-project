@@ -19,7 +19,7 @@ Please adjust the parameters on the sidebar to see the prediction results.
 """)
 
 # Adding an image to the main section
-st.image('https://upload.wikimedia.org/wikipedia/commons/4/41/Diabetes_insulin_injection_by_nurse.jpg', caption='Diabetes Awareness')
+st.image('download.jpeg', caption='Diabetes Awareness')
 
 # Subheader for data
 st.subheader('Diabetes Dataset Overview')
