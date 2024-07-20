@@ -19,7 +19,7 @@ Please adjust the parameters on the sidebar to see the prediction results.
 """)
 
 # Adding an image to the main section
-st.image('download.jpeg', caption='Diabetes Awareness')
+st.image('images (1).jpeg', caption='Diabetes Awareness')
 
 # Subheader for data
 st.subheader('Diabetes Dataset Overview')
